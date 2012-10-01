@@ -1,0 +1,17 @@
+﻿$000
+LA30
+LC30
+CMP
+JE05
+SA20
+SC21
+PD30
+PD20
+$END
+$020
+Laba
+s Kr
+abas
+$030
+10
+AA0
